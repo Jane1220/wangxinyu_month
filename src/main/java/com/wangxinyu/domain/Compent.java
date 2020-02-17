@@ -6,7 +6,7 @@ import java.io.Serializable;
  * 
  * @ClassName: Compent 
  * @Description: 文章评论
- * @author: charles
+ * @author: 王新宇
  * @date: 2020年2月13日 上午9:11:57
  */
 public class Compent implements Serializable{

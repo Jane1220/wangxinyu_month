@@ -19,7 +19,7 @@ import com.github.pagehelper.PageInfo;
  * 
  * @ClassName: AdminController 
  * @Description: 管理员后台控制器
- * @author: charles
+ * @author: 王新宇
  * @date: 2020年1月7日 下午3:46:27
  */
 @RequestMapping("admin")

@@ -20,7 +20,7 @@ import com.wangxinyu.util.Result;
  * 
  * @ClassName: PassportController
  * @Description: 注册、登录、注销的控制器
- * @author: charles
+ * @author: 王新宇
  * @date: 2020年1月11日 上午10:03:17
  */
 @RequestMapping("passport")

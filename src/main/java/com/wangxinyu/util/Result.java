@@ -3,7 +3,7 @@ package com.wangxinyu.util;
  * 
  * @ClassName: Result 
  * @Description: 返回统一的结果值
- * @author: charles
+ * @author: 王新宇
  * @date: 2020年1月11日 下午3:09:12 
  * @param <T>
  */

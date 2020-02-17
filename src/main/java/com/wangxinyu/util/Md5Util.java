@@ -7,7 +7,7 @@ import org.apache.commons.codec.digest.DigestUtils;
  *
  * @ClassName: Md5Util 
  * @Description: TODO
- * @author: bobo
+ * @author: 王新宇
  * @date: 2019年5月12日 下午8:53:18
  */
 public class Md5Util {

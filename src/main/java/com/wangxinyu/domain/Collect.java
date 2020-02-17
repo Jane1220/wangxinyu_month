@@ -7,7 +7,7 @@ import java.util.Date;
  * 
  * @ClassName: Collect 
  * @Description: 文章的收集
- * @author: charles
+ * @author: 王新宇
  * @date: 2020年2月15日 上午8:41:22
  */
 public class Collect  implements Serializable{

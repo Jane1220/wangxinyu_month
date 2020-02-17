@@ -31,7 +31,7 @@ import com.github.pagehelper.PageInfo;
  * 
  * @ClassName: MyController 
  * @Description: 个人中心
- * @author: charles
+ * @author: 王新宇
  * @date: 2020年1月9日 上午9:07:28
  */
 @RequestMapping("my")

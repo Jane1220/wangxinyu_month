@@ -9,7 +9,7 @@ import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
  * 
  * @ClassName: AdminInterceptor 
  * @Description: 管理员拦截器
- * @author: charles
+ * @author: 王新宇
  * @date: 2020年1月11日 下午4:13:20
  */
 public class AdminInterceptor extends HandlerInterceptorAdapter {
